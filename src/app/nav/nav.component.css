@@ -1,0 +1,8 @@
+.navbar{
+    background-color:cadetblue;
+    height: 50px;
+}
+.site-name{
+    padding:0.1px 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
